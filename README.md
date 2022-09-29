@@ -1,4 +1,3 @@
-
 # Boilerplate | React
 
 This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
@@ -28,6 +27,10 @@ This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course call
     yarn install
 
     yarn dev
+
+Using Boilerplate in your NextJS project:
+
+    yarn create next-app -e https://github.com/GuiiHenriq/boilerplate-react
 
 # Commands :memo:
 - `dev`: runs your application on `localhost:3000`
