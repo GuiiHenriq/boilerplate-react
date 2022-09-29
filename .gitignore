@@ -31,6 +31,13 @@ yarn-error.log*
 # vercel
 .vercel
 
+# sw stuff
+public/sw.js
+public/workbox-*.js
+
+# storybook
+storybook-static
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
