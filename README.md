@@ -14,6 +14,9 @@ This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course call
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [Plop](https://plopjs.com/)
+- [Dependabot](https://github.com/dependabot)
+- [Github Actions](https://docs.github.com/pt/actions)
 
 
 # Run :computer:
